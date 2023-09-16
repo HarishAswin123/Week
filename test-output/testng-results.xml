@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Collabera home page is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Infogain home page is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Infosys home page is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Test Yantra home page is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Wipro home page is displayed]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2023-09-03T14:07:43 IST" name="Default suite" finished-at="2023-09-03T14:10:29 IST" duration-ms="166752">
+    <groups>
+    </groups>
+    <test started-at="2023-09-03T14:07:43 IST" name="Default test" finished-at="2023-09-03T14:10:29 IST" duration-ms="166752">
+      <class name="Unit_Testing_Tool.FirstProgram1global">
+        <test-method signature="Collabera()[pri:0, instance:Unit_Testing_Tool.FirstProgram1global@7cc0cdad]" started-at="2023-09-03T14:07:43 IST" name="Collabera" finished-at="2023-09-03T14:08:56 IST" duration-ms="73769" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Collabera home page is displayed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Collabera -->
+        <test-method signature="Infogain()[pri:0, instance:Unit_Testing_Tool.FirstProgram1global@7cc0cdad]" started-at="2023-09-03T14:08:56 IST" name="Infogain" finished-at="2023-09-03T14:09:09 IST" duration-ms="12803" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Infogain home page is displayed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Infogain -->
+        <test-method signature="Infosys()[pri:0, instance:Unit_Testing_Tool.FirstProgram1global@7cc0cdad]" started-at="2023-09-03T14:09:09 IST" name="Infosys" finished-at="2023-09-03T14:09:20 IST" duration-ms="10733" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Infosys home page is displayed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Infosys -->
+        <test-method signature="Testyantra()[pri:0, instance:Unit_Testing_Tool.FirstProgram1global@7cc0cdad]" started-at="2023-09-03T14:09:20 IST" name="Testyantra" finished-at="2023-09-03T14:09:54 IST" duration-ms="34017" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Test Yantra home page is displayed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Testyantra -->
+        <test-method signature="Wipro()[pri:0, instance:Unit_Testing_Tool.FirstProgram1global@7cc0cdad]" started-at="2023-09-03T14:09:54 IST" name="Wipro" finished-at="2023-09-03T14:10:29 IST" duration-ms="35352" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Wipro home page is displayed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Wipro -->
+      </class> <!-- Unit_Testing_Tool.FirstProgram1global -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
